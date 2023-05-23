@@ -1,0 +1,6 @@
+/home/femi/Neural_net/build/CMakeFiles/Neural_network.dir
+/home/femi/Neural_net/build/CMakeFiles/edit_cache.dir
+/home/femi/Neural_net/build/CMakeFiles/rebuild_cache.dir
+/home/femi/Neural_net/build/NeuralNetwork/CMakeFiles/NeuralNetwork.dir
+/home/femi/Neural_net/build/NeuralNetwork/CMakeFiles/edit_cache.dir
+/home/femi/Neural_net/build/NeuralNetwork/CMakeFiles/rebuild_cache.dir

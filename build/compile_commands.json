@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/femi/Neural_net/build",
+  "command": "/usr/bin/g++  -I/home/femi/Neural_net/NeuralNetwork/include -isystem /usr/local/include/eigen3 -g -o CMakeFiles/Neural_network.dir/src/main.cpp.o -c /home/femi/Neural_net/src/main.cpp",
+  "file": "/home/femi/Neural_net/src/main.cpp"
+},
+{
+  "directory": "/home/femi/Neural_net/build/NeuralNetwork",
+  "command": "/usr/bin/g++ -DNeuralNetwork_EXPORTS -I/home/femi/Neural_net/NeuralNetwork/include -isystem /usr/local/include/eigen3 -g -fPIC -o CMakeFiles/NeuralNetwork.dir/NeuralNetwork.cpp.o -c /home/femi/Neural_net/NeuralNetwork/NeuralNetwork.cpp",
+  "file": "/home/femi/Neural_net/NeuralNetwork/NeuralNetwork.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/Neural_network.dir/src/main.cpp.o -o bin/Neural_network  -Wl,-rpath,/home/femi/Neural_net/build/NeuralNetwork NeuralNetwork/libNeuralNetwork.so 
